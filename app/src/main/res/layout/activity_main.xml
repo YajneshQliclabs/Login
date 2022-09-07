@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout android:gravity="center_horizontal"
+        android:id="@+id/linearColumnellipsetwo"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical" style="@style/groupStylewhite_A700">
+        <FrameLayout android:id="@+id/frameStackellipsetwo"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="406.76dp"
+            android:layout_marginEnd="15.85dp"
+            android:layout_marginStart="15.85dp"
+            android:layout_marginTop="6.94dp" android:layout_width="377.14dp">
+            <View
+                android:background="@drawable/rectangle_bg_gray_50_radius_41_5"
+                android:id="@+id/viewEllipseTwo"
+                android:layout_gravity="top|start"
+                android:layout_height="87.68dp"
+                android:layout_marginBottom="57.24dp"
+                android:layout_marginEnd="10.56dp"
+                android:layout_marginTop="57.24dp" android:layout_width="87.68dp"/>
+            <View
+                android:background="@drawable/rectangle_border_gray_200_radius_24_5"
+                android:id="@+id/viewEllipseThree"
+                android:layout_gravity="top|end"
+                android:layout_height="51.76dp"
+                android:layout_marginBottom="150.91dp"
+                android:layout_marginStart="10.56dp"
+                android:layout_marginTop="150.91dp" android:layout_width="51.76dp"/>
+            <View
+                android:background="@drawable/rectangle_bg_cyan_50_radius_11"
+                android:id="@+id/viewEllipseFour"
+                android:layout_gravity="bottom|end"
+                android:layout_height="23.24dp"
+                android:layout_marginEnd="15.85dp"
+                android:layout_marginStart="15.85dp"
+                android:layout_marginTop="8.67dp" android:layout_width="23.24dp"/>
+            <ImageView android:id="@+id/imageBackgroundOne"
+                android:layout_gravity="bottom|center"
+                android:layout_height="353.9dp"
+                android:layout_marginEnd="17.96dp"
+                android:layout_marginStart="17.96dp"
+                android:layout_marginTop="8.67dp"
+                android:layout_width="338.05dp"
+                android:scaleType="fitXY"
+                android:imageRes="@{@drawable/img_background1}"
+                tools:ignore="ContentDescription" tools:src="@drawable/img_background1"/>
+            <View
+                android:background="@drawable/rectangle_border_gray_200_90_radius_51"
+                android:id="@+id/viewEllipseEight"
+                android:layout_gravity="top|end"
+                android:layout_height="107.75dp"
+                android:layout_marginBottom="8.67dp"
+                android:layout_marginEnd="5.28dp"
+                android:layout_marginStart="10.56dp" android:layout_width="107.75dp"/>
+        </FrameLayout>
+        <ImageView android:id="@+id/imageEpriselogo"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="68.67dp"
+            android:layout_marginEnd="15.85dp"
+            android:layout_marginStart="15.85dp"
+            android:layout_marginTop="28.62dp"
+            android:layout_width="171.14dp"
+            android:scaleType="fitXY"
+            android:imageRes="@{@drawable/img_epriselogo}"
+            tools:ignore="ContentDescription" tools:src="@drawable/img_epriselogo"/>
+        <TextView android:ellipsize="end"
+            android:gravity="center_horizontal"
+            android:id="@+id/txtAnAccountings"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="15.85dp"
+            android:layout_marginStart="15.85dp"
+            android:layout_marginTop="7.81dp"
+            android:layout_width="match_parent"
+            android:singleLine="true"
+            android:text="@{getStartedVM.getStartedModel.txtAnAccountings}"
+            style="@style/txtRobotoromanlight16" tools:text="@string/msg_an_accounting_s"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:ellipsize="end" android:gravity="center"
+            android:id="@+id/btnGetStarted"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="1.35dp"
+            android:layout_marginEnd="15.85dp"
+            android:layout_marginStart="15.85dp"
+            android:layout_marginTop="130.09dp"
+            android:layout_width="match_parent"
+            android:paddingBottom="16.48dp"
+            android:paddingEnd="31.69dp"
+            android:paddingStart="31.69dp"
+            android:paddingTop="16.48dp" android:singleLine="true"
+            android:text="Get started"
+            android:textAllCaps="false" style="@style/btnSolidRounded" tools:text="@string/lbl_get_started"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

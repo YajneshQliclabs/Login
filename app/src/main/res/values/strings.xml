@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">boardingscreens</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_log_in2">Log In</string>
+<string name="lbl_technology">Technology</string>
+<string name="msg_get_your_certif">Get your Certificate of Appreciation for 
+promptly paying GST with the help of 
+E-Prise.</string>
+<string name="lbl_next">Next</string>
+<string name="lbl_login2">Login</string>
+<string name="msg_an_accounting_s">An Accounting software for All</string>
+<string name="msg_check_your_app">"Check your app's UI from the below demo screens of your app."</string>
+<string name="lbl_technology2">technology</string>
+<string name="lbl_get_started">Get Started</string>
+<string name="lbl_password">Password</string>
+<string name="msg_work_life_balan">Work life balance can be achieved by 
+balancing everything in accounting. </string>
+<string name="lbl_compliance">Compliance</string>
+<string name="lbl_skip">Skip</string>
+<string name="lbl_get_started2">get started</string>
+<string name="lbl_username">Username</string>
+<string name="lbl_accounting">Accounting</string>
+<string name="lbl_app_navigation">App Navigation</string>
+<string name="msg_receive_your_du">Receive your dues with quick payment links
+Automatic bank reconciliation.</string>
+<string name="lbl_log_in">Log in</string>
+<string name="lbl_compliance2">compliance</string>
+<string name="msg_please_enter_valid_pa">Please enter valid password</string>
+<string name="msg_please_enter_valid_text">Please enter valid text</string>
+</resources>
