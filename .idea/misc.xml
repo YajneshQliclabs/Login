@@ -4,11 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/font/roboto.xml" value="0.38974358974358975" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/compliance.xml" value="0.365625" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/get_started.xml" value="0.33" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/login.xml" value="0.365625" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/technology.xml" value="0.365625" />
       </map>
     </option>
   </component>
