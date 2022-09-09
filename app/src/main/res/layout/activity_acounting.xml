@@ -41,7 +41,7 @@
                     android:layout_marginTop="3.47dp"
                     android:layout_width="match_parent"
                     android:scaleType="fitXY"
-                    android:imageRes="@{@drawable/img_otherposts10}"
+
                     tools:ignore="ContentDescription" tools:src="@drawable/img_otherposts10"/>
             </FrameLayout>
             <FrameLayout android:gravity="start"
@@ -137,8 +137,8 @@
                             android:text="@{accountingVM.accountingModel.txtSkip}"
                             tools:text="@string/lbl_skip" />
 
-                        <Button
-                            android:id="@+id/btnNext"
+                        <androidx.appcompat.widget.AppCompatButton
+                            android:id="@+id/btnNext2"
                             style="@style/btnSolidRounded_2"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"

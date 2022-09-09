@@ -38,7 +38,7 @@
                         android:layout_marginTop="8.67dp"
                         android:layout_width="171.14dp"
                         android:scaleType="fitXY"
-                        android:imageRes="@{@drawable/img_epriselogo}"
+
                         tools:ignore="ContentDescription" tools:src="@drawable/img_epriselogo"/>
                 </FrameLayout>
 
@@ -48,7 +48,7 @@
                     android:layout_marginTop="54.64dp"
                     android:layout_width="62.33dp"
                     android:scaleType="fitXY"
-                    android:imageRes="@{@drawable/img_ellipse3}"
+
                     tools:ignore="ContentDescription" tools:src="@drawable/img_ellipse3"/>
             </LinearLayout>
 
@@ -97,7 +97,7 @@
                         android:layout_marginStart="10.56dp"
                         android:layout_width="215.51dp"
                         android:scaleType="fitXY"
-                        android:imageRes="@{@drawable/img_otherposts13}"
+
                         tools:ignore="ContentDescription" tools:src="@drawable/img_otherposts13"/>
 
                 </FrameLayout>

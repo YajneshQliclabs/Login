@@ -50,7 +50,6 @@
                 android:layout_marginTop="8.67dp"
                 android:layout_width="338.05dp"
                 android:scaleType="fitXY"
-                android:imageRes="@{@drawable/img_background1}"
                 tools:ignore="ContentDescription" tools:src="@drawable/img_background1"/>
             <View
                 android:background="@drawable/rectangle_border_gray_200_90_radius_51"
@@ -69,7 +68,6 @@
             android:layout_marginTop="28.62dp"
             android:layout_width="171.14dp"
             android:scaleType="fitXY"
-            android:imageRes="@{@drawable/img_epriselogo}"
             tools:ignore="ContentDescription" tools:src="@drawable/img_epriselogo"/>
         <TextView android:ellipsize="end"
             android:gravity="center_horizontal"
@@ -82,7 +80,7 @@
             android:singleLine="true"
             android:text="@{getStartedVM.getStartedModel.txtAnAccountings}"
             style="@style/txtRobotoromanlight16" tools:text="@string/msg_an_accounting_s"/>
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:ellipsize="end" android:gravity="center"
             android:id="@+id/btnGetStarted"
             android:layout_height="wrap_content"

@@ -3,13 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1825" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/font/roboto.xml" value="0.38974358974358975" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/activity_acounting.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/activity_compliance.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/activity_compliance1.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/activity_login.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/activity_technology.xml" value="0.17395833333333333" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/compliance.xml" value="0.365625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/get_started.xml" value="0.33" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/login.xml" value="0.365625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/login.xml" value="0.22" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/navigation.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/technology.xml" value="0.365625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/layout/technology.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Login/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AppData/Local/Android/Sdk/platforms/android-32/data/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/Admin/AppData/Local/Android/Sdk/platforms/android-32/data/res/drawable/ic_launcher_foreground.xml" value="0.196" />
       </map>
     </option>
   </component>

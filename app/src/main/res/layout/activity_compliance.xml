@@ -28,7 +28,7 @@
                         android:layout_height="370.8dp"
                         android:layout_width="match_parent"
                         android:scaleType="fitXY"
-                        android:imageRes="@{@drawable/img_otherposts9}"
+
                         tools:ignore="ContentDescription" tools:src="@drawable/img_otherposts9"/>
                     <LinearLayout
                         android:id="@+id/linearColumnellipsethree"
@@ -125,10 +125,10 @@
                             android:singleLine="true"
                             android:text="@{complianceVM.complianceModel.txtSkip}"
                             style="@style/txtRobotoromanmedium16" tools:text="@string/lbl_skip"/>
-                       <Button
+                        <androidx.appcompat.widget.AppCompatButton
                             android:ellipsize="end"
                             android:gravity="center"
-                            android:id="@+id/btnNext"
+                            android:id="@+id/btnNext1"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="220.79dp"
                             android:layout_width="match_parent"
