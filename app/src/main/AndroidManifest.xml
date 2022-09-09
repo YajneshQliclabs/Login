@@ -20,7 +20,7 @@
             android:name=".Technology"
             android:exported="false" />
         <activity
-            android:name=".Acounting"
+            android:name=".Accounting"
             android:exported="false" />
         <activity
             android:name=".Compliance"

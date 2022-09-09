@@ -4,7 +4,6 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.login.databinding.ActivityComplianceBinding
-import com.example.login.databinding.ActivityMainBinding
 
 class Compliance : AppCompatActivity() {
 
@@ -16,7 +15,7 @@ class Compliance : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.btnNext1.setOnClickListener {
-            startActivity(Intent(this,Acounting::class.java))
+            startActivity(Intent(this,Accounting::class.java))
         }
 
     }

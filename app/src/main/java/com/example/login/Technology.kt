@@ -3,7 +3,6 @@ package com.example.login
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.login.databinding.ActivityAcountingBinding
 import com.example.login.databinding.ActivityTechnologyBinding
 
 class Technology : AppCompatActivity() {
